@@ -5,7 +5,7 @@ import LinkBtn from "../LinkBtn";
 
 function handleClick(ev) {
   console.log(ev);
-  alert("Você está seguindo este perfil!");
+  alert("Você está seguindo este perfil!!");
 }
 export default function Profile(props) {
   return (
