@@ -1,8 +1,8 @@
-# React + Vite
+# Component Profile Version 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto feito durante meus estudos em React, há outro projeto de component profile neste perfil. A diferença aqui é que este é uma versão melhor do primeiro projeto, com um uso mellhor de props e um código mais estruturado.
 
-Currently, two official plugins are available:
+Você pode ver como ficou o component na imagem abaixo:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/anthonymnf/component_profile_v2/assets/115318191/9f88fafa-c15a-40e3-8275-a730a7759a7e)
+
