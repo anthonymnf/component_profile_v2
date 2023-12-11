@@ -12,7 +12,7 @@ export default function Profile(props) {
       setFolowText("Following");
     } else {
       alert("Você deixou de seguir este perfil!!");
-      setFolowText("Follow");
+      setFolowText("Follow ");
     }
   }
 
