@@ -4,5 +4,6 @@ Projeto feito durante meus estudos em React, há outro projeto de component prof
 
 Você pode ver como ficou o component na imagem abaixo:
 
-![image](https://github.com/anthonymnf/component_profile_v2/assets/115318191/9f88fafa-c15a-40e3-8275-a730a7759a7e)
+![image](https://github.com/anthonymnf/component_profile_v2/assets/115318191/4272224d-d3c5-4281-9639-987072c66881)
+
 
